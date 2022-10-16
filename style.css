@@ -9,7 +9,7 @@ body {
   box-sizing: border-box; }
 
 .main_page {
-  height: 100vh;
+  height: 100%;
   display: flex;
   background-color: #b9b9b9; }
   .main_page .users {
